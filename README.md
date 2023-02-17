@@ -19,6 +19,8 @@ Sheet 1 – KPI
  		Attrition Rate: Sum Attrition Count/ Sum Employee Count
 		Active Employees: Sum Employee Count - Sum Attrition Count
 
+<img width="1008" alt="KPI" src="https://user-images.githubusercontent.com/69414362/219811766-4fa724c8-37cf-47bd-8f9f-439a91736508.png">
+
 Sheet 2 – Attrition rate by Gender
 
 This sheet indicates the visulisation of attrition rate with respect to gender i.e. It shows how many Males/Females have resigned the company or organisation. 
