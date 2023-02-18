@@ -10,6 +10,9 @@
 
 This Dashboard is used by HR department to know the total count of the employees, total attritation rate in particular department, age, gender, and many other factors. The dashboard contains different graphs such as pie chart, matrix, histogram, and many more to visualise different Factors. The excel dataset contains 39 columns and 1470 data entries.
 
+![image](https://user-images.githubusercontent.com/69414362/219826837-ced75367-dfea-40a7-b9a4-94960532ad44.png)
+
+
 Sheet 1 – KPI
 
 ●	Calculated field ‘Attrition count’ is created to count the people who have left the company.
@@ -27,11 +30,15 @@ This sheet indicates the visulisation of attrition rate with respect to gender i
 ●	Add Gener and Customer attrition count in Rows and Columns. 
 ●	Create another instance of the attrition count and make a Dual Axis chart and final graph looks like a lollipop chart.
 
+![image](https://user-images.githubusercontent.com/69414362/219812451-33734138-d518-4132-a4c1-2af73c8e8890.png)
+
 
 Sheet 3 – Department wise Attrition
 
 ●	Creation of pie chart with the column Department and sum of the attrition count.
 ●	The pie chart shows the attrition rate in department ‘R & D’ and ‘Sales’ is 56.12 % and 38.82% respectively. The attrition rate is very less comapred to the rest two.
+
+![image](https://user-images.githubusercontent.com/69414362/219826819-1d3d5faa-4148-45e9-9fbe-b516b4d4e086.png)
 
 
 Sheet 4 – Number of Employee by Age Group
@@ -40,13 +47,22 @@ Sheet 4 – Number of Employee by Age Group
 ●	New parameter is created with Age(bin).
 ●	Employee count is added to the rows and bar chart is created as shown in the below figure.
 
+![image](https://user-images.githubusercontent.com/69414362/219826876-5aa05dc8-8a36-4b22-b85c-7d4f83e26317.png)
+
+
 Sheet 5 – Heat Map Chart / Matrix Chart
 
 ●	This sheet shows the job statisfaction index against their roles. The Job statisfaction column is converted to a categorical variable and table is retrieved which consists of rating from 1 to 4 where 1 being the lowest and 4 being the highest. The totals of both the rows and columns have been retrieved to get the total count.
 
+![image](https://user-images.githubusercontent.com/69414362/219826904-48771d84-11fb-4818-b4d6-23292bc091f6.png)
+
+
 Sheet 6  – Education Field wise Attrition
 
 ●	The bar graph is plotted to to view the attrition rate with respect to the education.
+
+![image](https://user-images.githubusercontent.com/69414362/219826934-07aea988-5aeb-45a0-bbbc-7b2e6651ba65.png)
+
 
 Sheet 7  – Attrition Rate by Gender with different Age group
 
@@ -57,6 +73,9 @@ Sheet 7  – Attrition Rate by Gender with different Age group
 ●	Make the dual axis chart.
 ●	Remove the header and axis, the labels must indicate the total count and even the percentage of total count.
 ●	Drag the attrition count into the second Agg. The age band is not in proper order and hence click on drop down of the Age band-> Sort -> Manual 
+
+![image](https://user-images.githubusercontent.com/69414362/219826948-61081b9f-2e9c-4a15-825d-8b29df0e5998.png)
+
 
 Dashboard: HR Analytics Dashboard
 
